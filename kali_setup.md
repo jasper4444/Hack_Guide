@@ -1,8 +1,7 @@
 ---
-theme: jekyll-theme-slate
-layout: page
 title: Initial Kali Setup
-permalink: /kali-setup/
+layout: template
+filename: kali_setup.md
 ---
 # Update the Operating System 
 **sudo apt update && apt upgrade -y**
