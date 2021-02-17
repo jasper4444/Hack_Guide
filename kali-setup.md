@@ -1,7 +1,6 @@
 ---
-theme: jekyll-theme-hacker
+layout: page
 title: Initial Kali Setup
-filename: kali-setup.md
 ---
 # Update the Operating System 
 **sudo apt update && apt upgrade -y**
