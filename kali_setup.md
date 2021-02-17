@@ -1,0 +1,3 @@
+layout: page
+title: "Initial Kali Setup"
+permalink: /kali-setup/
