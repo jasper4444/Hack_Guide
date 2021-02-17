@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-slate
 layout: page
 title: Initial Kali Setup
 permalink: /kali-setup/
