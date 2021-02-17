@@ -3,7 +3,7 @@ layout: page
 title: Initial Kali Setup
 permalink: /kali-setup/
 ---
-# Udpate the Operating System 
+# Update the Operating System 
 **sudo apt update && apt upgrade -y**
 
 # Useful Software
