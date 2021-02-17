@@ -1,6 +1,6 @@
 ---
+theme: jekyll-theme-hacker
 title: Initial Kali Setup
-layout: template
 filename: kali_setup.md
 ---
 # Update the Operating System 
