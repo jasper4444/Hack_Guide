@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Initial Kali Setup"
+title: Initial Kali Setup
 permalink: /kali-setup/
 ---
 
-**content**
+**content will go here**
