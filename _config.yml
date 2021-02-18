@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Welcome to my Hacking/CTF Guide
+author: jasper4444
 description: There are many guides out there.  Many of them are fantastic.  This is my guide.  These are the bits and pieces I have picked up along the way which help me in my methodology as I work through boot-to-root CTF-style challenges.
